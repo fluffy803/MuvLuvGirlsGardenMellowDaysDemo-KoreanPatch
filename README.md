@@ -2,7 +2,7 @@
 
 ![한국어 패치 적용 타이틀 화면](images/title.jpg)
 
-Steam 작업 동반 어드벤처 **マブラヴ ガールズガーデン Mellow Days** (MUV-LUV GIRLS GARDEN Mellow Days) 체험판의 비공식 한국어 패치입니다.
+Steam 버전 **マブラヴ ガールズガーデン Mellow Days** (MUV-LUV GIRLS GARDEN Mellow Days) 체험판의 비공식 한국어 패치입니다.
 
 ## 설치
 
