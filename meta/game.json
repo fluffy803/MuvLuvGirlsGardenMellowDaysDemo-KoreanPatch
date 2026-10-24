@@ -1,0 +1,20 @@
+{
+ "app": "マブラヴ ガールズガーデン Mellow Days Demo",
+ "steam_appid": 5143280,
+ "buildid": 25035598,
+ "sha256": {
+  "garden_Data/Managed/Garden.Common.dll": "c8bfe11b40079f2b328439815b0db62cf7ed90cb9e1994ef99f40b3565906365",
+  "garden_Data/Managed/Garden.Models.dll": "42964fcec8be9d808bd661529751f43d398e61e03afe4554a974f9dca89ef5af",
+  "garden_Data/Managed/Garden.Services.dll": "3b373f8a60aca22aa56c629f310a94d3345acf7a3ff41cdbb6806e36e1807016",
+  "garden_Data/Managed/Garden.ViewModels.dll": "6f740231ec4d4a44d7aed2e1f9588824685c84d9a33396b7b798093fb7c21204",
+  "garden_Data/Managed/Garden.Views.dll": "6da95235b9fccb8aee65cba02219f0f8e23aab12eda043b3d13335dc07fa711c",
+  "garden_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-chinese(simplified)(zh-hans)_assets_all.bundle": "be8ff1597db7398d90756d43e6dbbf025858b802131ad24a49259b5c0ba9275e",
+  "garden_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-english(en)_assets_all.bundle": "9d0ee2eca3f675e58f12d526bdb98ac6e3d6b74d4bbb05f38afe561569121b40",
+  "garden_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle": "8cbec5044cda9aea7c0498fd07ff269ee4c57fb5e9b89702279a4d6e40ef7cf6",
+  "garden_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-chinese(simplified)(zh-hans)_assets_all.bundle": "aea10e6b932e164e897c618145fa6011f87f334125d07fef2c3caab2b5e2988c",
+  "garden_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle": "0fd02085c1f715e9617ca21af3f79db8f0472d1385e4d55dc517ff14fa20d2e8",
+  "garden_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-japanese(ja)_assets_all.bundle": "e40b4a33bfe2326461c874ed9b2f9a25ebc93c0aee03c8b129b47586dc965b64",
+  "garden_Data/StreamingAssets/aa/catalog.bin": "a6857214cda97d7e64f3c47a20854aceaea7950c4cf69fad526531f677de8374",
+  "garden_Data/resources.assets": "0e06396db65a0a74a9efca9240876b235cf4698d7099911024dd2fc5030da06b"
+ }
+}
